@@ -1,4 +1,4 @@
-Three functions for database connection
+Functions for database connection
 
 database = firebase.database();
 
